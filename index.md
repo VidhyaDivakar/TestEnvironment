@@ -1,10 +1,8 @@
----
-title: Home
-layout: home
----
-
+<!--//this is to test the CTA button styling-->
+Basic Blue CTA Button Test
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8" />
     <title>CTA Test</title>
@@ -27,36 +25,33 @@ layout: home
         }
     </style>
 </head>
+
 <body>
-    <h1>Welcome to My Portfolio</h1>
-
-    <h2>My work samples</h2>
-
-    <body>
 
     <a href="https://github.com/orgs/open-telemetry/projects" class="cta-btn">
         Review Projects
     </a>
     <br><br>
-  <ul>
-    <li><a href="https://github.com/VidhyaDivakar" target="_blank">My GitHub Profile</a></li>
+    Review Button added with basic github styles
 
-    <li><a href="https://github.com/VidhyaDivakar/Portfolio/blob/main/extract_data_using_API.ipynb" target="_blank">
-        API Writing Samples
-    </a></li>
+    <a href="https://github.com/orgs/open-telemetry/projects">
+        <img src="https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white"
+            alt="Review Projects" />
+    </a>
+    <br><br>
+    Review projects link sample
 
-    <li><a href="https://github.com/VidhyaDivakar/Portfolio/blob/main/api_based_data_extraction_error_handling.md" target="_blank">
-        Error Handling Projects
-    </a></li>
+    <a href="https://github.com/orgs/open-telemetry/projects" class="cta-btn" target="_blank" rel="noopener">
+        Review Projects
+    </a>
+    <br><br>
+    Using a different button option
 
-    <li><a href="https://github.com/VidhyaDivakar/Portfolio/blob/main/RegistryTypeAttribute.md" target="_blank">
-        Open Source Project Sample
-    </a></li>
-
-    <li><a href="https://github.com/VidhyaDivakar/Portfolio/blob/main/Tech%20Glossary.md" target="_blank">
-        My Glossary
-    </a></li>
-</ul>
+    <a href="https://github.com/orgs/open-telemetry/projects"
+        style="display:inline-block; padding:12px 20px; background:#3bf0f6; color:white; border-radius:6px; text-decoration:none; font-weight:600;">
+        Review Projects
+    </a>
 
 </body>
+
 </html>
