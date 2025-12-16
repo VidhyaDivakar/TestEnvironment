@@ -1,9 +1,9 @@
 
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Test Environment
+description: An enviroment configured to test my work.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://VidhyaDivakar.github.io/TestEnvironment
 
 plugins:
   - jekyll-default-layout
