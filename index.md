@@ -27,12 +27,12 @@ Basic Blue CTA Button Test
 </head>
 
 <body>
-
+<h1>THIS IS THE NEW PAGE</h1>
     <a href="https://github.com/orgs/open-telemetry/projects" class="cta-btn">
         Review Projects
     </a>
     <br><br>
-    Review Button added with basic github styles
+<h1>   Review Button added with basic github styles </body>h1>
 
     <a href="https://github.com/orgs/open-telemetry/projects">
         <img src="https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white"
