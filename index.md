@@ -1,3 +1,10 @@
+---
+layout: home
+title: Welcome
+---
+
+<h1>Hello World</h1>
+<p>My updated landing page</p>
 <!--//this is to test the CTA button styling-->
 Basic Blue CTA Button Test
 <!DOCTYPE html>
