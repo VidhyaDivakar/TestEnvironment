@@ -6,28 +6,24 @@ layout: home
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
-    <meta charset="UTF-8">
-       <style>
-        body {
-            color: #FFFFFF;          /* White */
-            font-family: Arial;
+    <meta charset="UTF-8" />
+    <title>CTA Test</title>
+
+    <style>
+        .cta-btn {
+            display: inline-block;
+            padding: 14px 24px;
+            background: linear-gradient(90deg, #269eee, #32c9f7);
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: 0.3s ease;
         }
 
-        h1 {
-            color: #FFFFFF;       /* white */
-        }
-
-        h2 {
-            color: #FFFFFF;          /* white */
-        }
-           a {
-               color:  #66c0ec /* Site Blue */
-        }
-           a {
-            display: block;        /* puts each link on a new line */
-            margin-bottom: 12px;   /* adds white space between links */
-            font-size: 18px;
+        .cta-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
         }
     </style>
 </head>
@@ -35,6 +31,13 @@ layout: home
     <h1>Welcome to My Portfolio</h1>
 
     <h2>My work samples</h2>
+
+    <body>
+
+    <a href="https://github.com/orgs/open-telemetry/projects" class="cta-btn">
+        Review Projects
+    </a>
+    <br><br>
   <ul>
     <li><a href="https://github.com/VidhyaDivakar" target="_blank">My GitHub Profile</a></li>
 
