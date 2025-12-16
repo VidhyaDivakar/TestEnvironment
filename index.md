@@ -33,7 +33,7 @@ Basic Blue CTA Button Test
         Review Projects
     </a>
     <br><br>
-<h1>   Review Button added with basic github styles </body>h1>
+<h1>   Review Button added with basic github styles </h1>
 
     <a href="https://github.com/orgs/open-telemetry/projects">
         <img src="https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white"
