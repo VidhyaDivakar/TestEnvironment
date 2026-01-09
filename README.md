@@ -2,6 +2,16 @@
 
 Here I will be testing my work alongside an webpage rendered by Jekyll theme. Testing and learning html, markdown and Jekyll.
 
+### Sample Minimal Site Structure
+
+my-site/
+├── _config.yml
+├──_layouts/
+│   └── default.html
+├── _posts/
+│   └── 2024-01-01-first-post.md
+└── index.md
+
 notes for styles:
 @import "ctastyle";  // imports _ctastyle.scss in [https://github.com/VidhyaDivakar/opentelemetry.io/blob/End-user-resources-Webpage-update/assets/scss/_styles_project.scss](https://github.com/VidhyaDivakar/opentelemetry.io/blob/End-user-resources-Webpage-update/assets/scss/_styles_project.scss)
 
@@ -30,7 +40,6 @@ Answer:
 #### Why you need seperate CSS/SCSS?
 
 * You want cleaner markdown files (no long style attributes)
-
 * You want consistency (change button color once, applies everywhere)
 * You want to maintain styling separately from content
 * You want advanced features (hover effects, variables, responsive design)
