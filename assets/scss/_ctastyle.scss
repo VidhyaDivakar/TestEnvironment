@@ -1,0 +1,16 @@
+/* _ctastyle.scss */
+.cta-btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #3b48f6;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s ease;
+}
+
+.cta-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}
