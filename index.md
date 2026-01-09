@@ -161,13 +161,14 @@ Gist.github.com
 
 [![ReviewButton](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE.svg)](https://example.com/)
 
-[<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />](https://example.com/)
+[`<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />`](https://example.com/)
 
-## Adding basic html using claude AI
+## Adding basic html using Steps
 
-Step 1 using Inline HTML for buttons in .md
-<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Click Me</button>
+Step 1 using Inline HTML for buttons in .md. This did not display here in the .md but diaplyed in jekyll HTML site
+`<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">`Click Me `</button>`
 
+<!-- when i used this tag, the button is displayed in the Vscode .md file but it is not displayed in the github.md file. However, the button with proper link is displayed in the jekyll site. So why we need this additional css/scss? If this renders in Kekyll site, will it render in hugo site too? refer Read me for more info>
 <!-- Use the above or below code.-->
 
 <a href="https://communityinviter.com/apps/cloud-native/cncf" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px;">Join CNCF Slack</a>
