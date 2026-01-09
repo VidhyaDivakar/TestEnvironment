@@ -166,7 +166,8 @@ Gist.github.com
 ## Adding basic html using Steps
 
 Step 1 using Inline HTML for buttons in .md. This did not display here in the .md but diaplyed in jekyll HTML site
-`<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">`Click Me `</button>`
+
+<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Click Me </button>
 
 <!-- when i used this tag, the button is displayed in the Vscode .md file but it is not displayed in the github.md file. However, the button with proper link is displayed in the jekyll site. So why we need this additional css/scss? If this renders in Kekyll site, will it render in hugo site too? refer Read me for more info>
 <!-- Use the above or below code.-->
