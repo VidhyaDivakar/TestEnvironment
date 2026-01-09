@@ -133,6 +133,45 @@ Review Issues
 [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#) | `[![Review Issues](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)` |
 ``````
 
+## GitHub Buttons by Github
+
+Code
+
+<!-- Place this tag where you want the button to render. -->
+
+<a class="github-button" href="https://github.com/buttons/github-buttons/generate" data-color-scheme="no-preference: dark; light: light_high_contrast; dark: dark;" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template buttons/github-buttons on GitHub">Use this template</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+## ghbtns.com buttons
+
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+## html button on html site
+
+<a href="https://github.com/mdo/github-buttons" class="btn">View on GitHub</a>
+
+<a href="https://vidhyadivakar.com" class="btn">My Profile</a>
+
+Gist.github.com
+
+[![ReviewButton](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE.svg)](https://example.com/)
+
+[<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />](https://example.com/)
+
+## Adding basic html using claude AI
+
+Step 1 using Inline HTML for buttons in .md
+<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Click Me</button>
+
+<!-- Use the above or below code.-->
+
+<a href="https://communityinviter.com/apps/cloud-native/cncf" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px;">Join CNCF Slack</a>
+
 ## youtube
 
 ![You Tube](https://www.youtube.com/watch?v=GrQyUPeCljo?list=PLVYDBkQ1TdyxKgdGE4ThYLkNRCuLLYy9x&t=1)
