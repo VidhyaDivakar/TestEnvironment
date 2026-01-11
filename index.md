@@ -167,12 +167,40 @@ Gist.github.com
 
 Step 1 using Inline HTML for buttons in .md. This did not display here in the .md but diaplyed in jekyll HTML site
 
-<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Click Me </button>
+`<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">`Click Me `</button>`
 
 <!-- when i used this tag, the button is displayed in the Vscode .md file but it is not displayed in the github.md file. However, the button with proper link is displayed in the jekyll site. So why we need this additional css/scss? If this renders in Kekyll site, will it render in hugo site too? refer Read me for more info>
 <!-- Use the above or below code.-->
 
 <a href="https://communityinviter.com/apps/cloud-native/cncf" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px;">Join CNCF Slack</a>
+
+## caroussel
+
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+<style>
+  .carousel-cell {
+    width: 50%;
+    height: 150px;
+  }
+  .carousel-cell img {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+  }
+</style>
+
+<div class="carousel" data-flickity='{ "autoPlay": true, "wrapAround": true }'>
+  <div class="carousel-cell"><img src="https://images.pexels.com/photos/35554037/pexels-photo-35554037.jpeg?text=Slide+1" alt="ContribEx Survey Results 2025"></div>
+  <div class="carousel-cell"><img src="https://images.pexels.com/photos/35449812/pexels-photo-35449812.jpeg?text=Slide+2"></div>
+  <div class="carousel-cell"><img src="https://images.pexels.com/photos/10353326/pexels-photo-10353326.jpeg?text=Slide+3"></div>
+</div>
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+<!-- https://opentelemetry.io/blog/2025/contribex-survey-results/-->
+<!-- https://opentelemetry.io/blog/2025/devex-survey/-->
+<!-- https://opentelemetry.io/blog/2024/otel-docs-survey-->
 
 ## youtube
 
