@@ -36,6 +36,23 @@ Review Projects
   </button>
 </a>
 
+## Question 1
+
+
+button {
+  color: #fff;
+  background-color: #3298dc;
+  border-color: transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+can we add styles in https://github.com/open-telemetry/opentelemetry.io/blob/main/static/css/benchmarks.css or https://github.com/open-telemetry/opentelemetry.io/tree/main/assets/scss
+
+then use,
+<a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
+<button class="button">Open Telementry Button</button>
+
 ## Review Projects using Blue button
 
 ![Static Badge](https://img.shields.io/badge/Review%20Issues%20-32c9f7 "Review Issues")
@@ -169,6 +186,71 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
 <!-- https://opentelemetry.io/blog/2025/contribex-survey-results/-->
 <!-- https://opentelemetry.io/blog/2025/devex-survey/-->
 <!-- https://opentelemetry.io/blog/2024/otel-docs-survey-->
+
+## Caroussel 2
+
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+<style>
+  .carousel {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  .carousel-cell {
+    width: 50%;
+    height: 200px;
+    margin-right: 10px;
+  }
+  .carousel-cell a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+  }
+  .carousel-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+  }
+  .carousel-cell img:hover {
+    transform: scale(1.05);
+  }
+  .carousel-cell .caption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+  }
+</style>
+
+<div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": 3000 }'>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2025/contribex-survey-results/" target="_blank">
+      <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" alt="ContribEx Survey Results">
+      <div class="caption">ContribEx Survey Results 2025</div>
+    </a>
+  </div>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2025/devex-survey/" target="_blank">
+      <img src="https://opentelemetry.io/img/logos/opentelemetry-stacked-color.png" alt="DevEx Survey">
+      <div class="caption">DevEx Survey 2025</div>
+    </a>
+  </div>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2024/otel-docs-survey" target="_blank">
+      <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" alt="Docs Survey">
+      <div class="caption">OTel Docs Survey 2024</div>
+    </a>
+  </div>
+</div>
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+
+
 
 ## youtube
 
