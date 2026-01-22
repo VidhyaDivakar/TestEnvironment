@@ -14,6 +14,12 @@ Review Projects
 
 ![Review Projects](https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white)
 
+## Basic HTML Button
+
+<a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
+  <button>Open OpenTelemetry Projects</button>
+</a>
+
 ## Review Projects using Blue button
 
 ![Static Badge](https://img.shields.io/badge/Review%20Issues%20-32c9f7 "Review Issues")
