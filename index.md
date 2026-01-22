@@ -223,32 +223,32 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
     font-size: 14px;
     color: #333;
     text-align: center;
+    font-weight: 500;
   }
 </style>
 
 <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": 3000 }'>
   <div class="carousel-cell">
     <a href="https://opentelemetry.io/blog/2025/contribex-survey-results/" target="_blank">
-      <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" alt="ContribEx Survey Results">
+      <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop" alt="ContribEx Survey Results">
       <div class="caption">ContribEx Survey Results 2025</div>
     </a>
   </div>
   <div class="carousel-cell">
     <a href="https://opentelemetry.io/blog/2025/devex-survey/" target="_blank">
-      <img src="https://opentelemetry.io/img/logos/opentelemetry-stacked-color.png" alt="DevEx Survey">
+      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop" alt="DevEx Survey">
       <div class="caption">DevEx Survey 2025</div>
     </a>
   </div>
   <div class="carousel-cell">
     <a href="https://opentelemetry.io/blog/2024/otel-docs-survey" target="_blank">
-      <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png" alt="Docs Survey">
+      <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&h=400&fit=crop" alt="Docs Survey">
       <div class="caption">OTel Docs Survey 2024</div>
     </a>
   </div>
 </div>
 
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-
 
 
 
