@@ -64,8 +64,6 @@ Review Projects
 
 ![Join CNFC](https://img.shields.io/badge/Join-CNCF-Slack-003791.svg?style=for-the-badge&logo=OpenTelemetry&logoColor=blue&logoSize=amd&label=Join%20CNCF%20Slack&labelColor=Ivory&color=Blue&link=https%3A%2F%2Fcommunityinviter.com%2Fapps%2Fcloud-native%2Fcncf)
 
-## Edit this please
-
 ## 1
 
 ![Review Projects](https://img.shields.io/badge/Review-Projects-1c3c3c.svg?style=for-the-badge&logo=&logoColor=white)
@@ -85,24 +83,6 @@ ff6a07 8BC0D0
 
 [![joincnfc](https://img.shields.io/badge/joincnfc-slack-003791.svg?style=for-the-badge&logo=OpenTelemetry)(](https://communityinviter.com/apps/cloud-native/cncf/)[https://communityinviter.com/apps/cloud-native/cncf](https://communityinviter.com/apps/cloud-native/cncf))
 
-## 4
-
-[https://img.shields.io/badge/Join%20CNCF%20Slack?style=for-the-badge&amp;logo=OpenTelemetry&amp;logoColor=blue&amp;logoSize=amd&amp;label=Join%20CNCF%20Slack&amp;labelColor=Ivory&amp;color=Blue&amp;link=https%3A%2F%2Fcommunityinviter.com%2Fapps%2Fcloud-native%2Fcncf](https://img.shields.io/badge/Join%20CNCF%20Slack?style=for-the-badge&logo=OpenTelemetry&logoColor=blue&logoSize=amd&label=Join%20CNCF%20Slack&labelColor=Ivory&color=Blue&link=https%3A%2F%2Fcommunityinviter.com%2Fapps%2Fcloud-native%2Fcncf)
-
-`<a href="https://github.com/orgs/open-telemetry/projects"  style="display:inline-block; padding:12px 20px; background:#3b48f6; color:white; border-radius:6px; text-decoration:none; font-weight:600;">`
- Review Projects
- `</a>`
-
-`<kbd> <a href="https://opentelemetry.io/community/end-user/issue-participation/" style="display:inline-block; padding:12px 20px; background:#32c9f7; color:white; border-radius:6px; text-decoration:none; font-weight:600;">`
-Review Issues
-
- `</a> </kbd>`
-
-```
-<kbd>
-  [**Review Projects**](https://opentelemetry.io/community/end-user/issue-participation/)
-</kbd>
-```
 
 ## Our Projects
 
@@ -116,38 +96,9 @@ Review Issues
 
 *You can use **Badges** as buttons.*
 
-<br>
-
 [![Button Click]][https://opentelemetry.io/community/end-user/issue-participation/]
 [![Button Hover]][Link]
 
-<br>
-
-```markdown
-[![Button Example]][Link]
-```
-
-``````markdown
-<!----------------------------------------------------------------------------->
-```
-
-```markdown
-[Link]: # 'Link with example title.'
-```
-
-```markdown
-<!---------------------------------[ Buttons ]--------------------------------->
-```
-
-```markdown
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-```
-
-<br>
-<br>
-
-[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#) | `[![Review Issues](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)` |
-``````
 
 ## GitHub Buttons by Github
 
