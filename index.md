@@ -324,6 +324,15 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
 
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
+##Youtube Sample 1
+
+<iframe width="560" height="315" 
+  src="https://youtube.com/embed/tTCuTAPE5aQ?list=PLVYDBkQ1TdywIl9xKEo5_u7zlwY38dW43" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 ## youtube
 
 ![You Tube](https://www.youtube.com/watch?v=GrQyUPeCljo?list=PLVYDBkQ1TdyxKgdGE4ThYLkNRCuLLYy9x&t=1)
