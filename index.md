@@ -17,7 +17,22 @@ Review Projects
 ## Basic HTML Button
 
 <a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
-  <button>Open OpenTelemetry Projects</button>
+  <button>OpenTelemetry Projects</button>
+</a>
+
+## Basic HTML Button with Styles
+
+<a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
+  <button style="
+    background-color:#e7f3ff;
+    color:#0366d6;
+    border:1px solid #c8e1ff;
+    padding:6px 12px;
+    border-radius:6px;
+    cursor:pointer;
+  ">
+    OpenTelemetry Projects
+  </button>
 </a>
 
 ## Review Projects using Blue button
@@ -34,11 +49,6 @@ Review Projects
 
 [![OtelSurveys](https://img.shields.io/badge/CONTRIBUTOR%20EXPERIENCE%20SURVEY-4285F4?logo=OpenTelemetry&logoColor=white)](https://opentelemetry.io/blog/2025/contribex-survey-results/)
 
-Contributor Experience Survey
-
-<br>
-
-[[![OtelReviewIssues](https://custom-icon-badges.demolab.com/badge/REVIEW ISSUES%20-2771D8?logo=OpenTelemetry-white&amp;logoColor=white)](#)](`https://github.com/orgs/open-telemetry/projects`)
 
 <!--➡️ TODO: Turn link to a button -->
 
