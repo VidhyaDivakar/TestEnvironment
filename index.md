@@ -23,14 +23,7 @@ Review Projects
 ## Basic HTML Button with Styles
 
 <a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
-  <button style="
-    background-color:#e7f3ff;
-    color:#0366d6;
-    border:1px solid #c8e1ff;
-    padding:6px 12px;
-    border-radius:6px;
-    cursor:pointer;
-  ">
+  <button style="background-color:#e7f3ff;color:#0366d6;border:1px solid #c8e1ff;padding:6px 12px;border-radius:6px;cursor:pointer;">
     OpenTelemetry Projects
   </button>
 </a>
@@ -38,15 +31,7 @@ Review Projects
 ## Basic HTML Button with Styles 1
 
 <a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
-  <button style="
-    background-color:#2f6feb;
-    color:#ffffff;
-    border:none;
-    padding:6px 14px;
-    border-radius:6px;
-    font-weight:600;
-    cursor:pointer;
-  ">
+  <button style=" background-color:#2f6feb;color:#ffffff;border:none;padding:6px 14px;border-radius:6px;font-weight:600;cursor:pointer;">
     OpenTelemetry Projects
   </button>
 </a>
