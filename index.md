@@ -252,7 +252,77 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
 
 
 
+## Carousel with Captions
 
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+<style>
+  .carousel {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  .carousel-cell {
+    width: 50%;
+    margin-right: 10px;
+  }
+  .carousel-cell a {
+    display: block;
+    text-decoration: none;
+  }
+  .carousel-cell .image-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 6px;
+  }
+  .carousel-cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  .carousel-cell img:hover {
+    transform: scale(1.05);
+  }
+  .carousel-cell .caption {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+    font-weight: 500;
+    padding: 0 10px;
+  }
+</style>
+
+<div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": 3000, "pageDots": true }'>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2025/contribex-survey-results/" target="_blank">
+      <div class="image-container">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop" alt="ContribEx Survey Results">
+      </div>
+      <div class="caption">ContribEx Survey Results</div>
+    </a>
+  </div>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2025/devex-survey/" target="_blank">
+      <div class="image-container">
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop" alt="DevEx Survey">
+      </div>
+      <div class="caption">DevEx Survey</div>
+    </a>
+  </div>
+  <div class="carousel-cell">
+    <a href="https://opentelemetry.io/blog/2024/otel-docs-survey" target="_blank">
+      <div class="image-container">
+        <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=600&h=400&fit=crop" alt="Docs Survey">
+      </div>
+      <div class="caption">OTel Docs Survey</div>
+    </a>
+  </div>
+</div>
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 ## youtube
 
