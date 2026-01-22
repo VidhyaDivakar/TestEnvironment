@@ -55,7 +55,6 @@ then use,
 
 ## Review Projects using Blue button
 
-![Static Badge](https://img.shields.io/badge/Review%20Issues%20-32c9f7 "Review Issues")
 
 ![Static Badge] [https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge](Static Badge)
 
@@ -70,17 +69,16 @@ then use,
 
 <!--➡️ TODO: Turn link to a button -->
 
-![Review Projects](https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white)
+
 
 [https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&amp;logo=github&amp;logoColor=white](https://img.shields.io/badge/Review-Projects-4f46e5?style=for-the-badge&logo=github&logoColor=white)
 
-![CNCF Slack](https://img.shields.io/badge/Join%20CNCF%20Slack-3776AB?logo=c-slacklogo&logoColor=fff) ([https://communityinviter.com/apps/cloud-native/cncf](https://communityinviter.com/apps/cloud-native/cncf))
+![CNCF Slack](https://img.shields.io/badge/Join%20CNCF%20Slack-3776AB?logo=c-slacklogo&logoColor=fff) ([https://communityinviter.com/apps/cloud-native/cncf])
 
-![CNCF Slack](https://img.shields.io/badge/Join%20CNCF%20Slack-3776AB?logo=slacklogo&logoColor=fff])([https://communityinviter.com/apps/cloud-native/cncf](https://communityinviter.com/apps/cloud-native/cncf))
+![CNCF Slack](https://img.shields.io/badge/Join%20CNCF%20Slack-3776AB?logo=slacklogo&logoColor=fff])([https://communityinviter.com/apps/cloud-native/cncf])
 
 ## Editing using the image shields
-
-![Join CNFC](https://img.shields.io/badge/Join-CNCF-Slack-003791.svg?style=for-the-badge&logo=OpenTelemetry&logoColor=blue&logoSize=amd&label=Join%20CNCF%20Slack&labelColor=Ivory&color=Blue&link=https%3A%2F%2Fcommunityinviter.com%2Fapps%2Fcloud-native%2Fcncf)
+<br>
 
 ## 1
 
@@ -92,7 +90,6 @@ then use,
    <img src="https://img.shields.io/badge/joincnfc-slack-003791.svg?style=for-the-badge&logo=OpenTelemetry&labelColor=labelColor=8BC0D0.svg"/>
 </a>
 
-ff6a07 8BC0D0
 
 <a href="https://communityinviter.com/apps/cloud-native/cncf/">
    <img src="https://img.shields.io/badge/join-CNCF%20slack-ff6a07.svg?style=for-the-badge&logo=CNCF&logoColor=black&labelColor=ivory">
@@ -102,25 +99,7 @@ ff6a07 8BC0D0
 [![joincnfc](https://img.shields.io/badge/joincnfc-slack-003791.svg?style=for-the-badge&logo=OpenTelemetry)(](https://communityinviter.com/apps/cloud-native/cncf/)[https://communityinviter.com/apps/cloud-native/cncf](https://communityinviter.com/apps/cloud-native/cncf))
 
 
-## Our Projects
-
-[Review Projects](https://github.com/orgs/open-telemetry/projects){: .cta-btn }
-
-[Review Issues](https://opentelemetry.io/community/end-user/issue-participation/){: .cta-btn }
-
-![You Tube](https://www.youtube.com/watch?v=GrQyUPeCljo?list=PLVYDBkQ1TdyxKgdGE4ThYLkNRCuLLYy9x&t=1)
-
-# Shield Buttons
-
-*You can use **Badges** as buttons.*
-
-[![Button Click]][https://opentelemetry.io/community/end-user/issue-participation/]
-[![Button Hover]][Link]
-
-
 ## GitHub Buttons by Github
-
-Code
 
 <!-- Place this tag where you want the button to render. -->
 
@@ -142,11 +121,6 @@ Code
 
 <a href="https://vidhyadivakar.com" class="btn">My Profile</a>
 
-Gist.github.com
-
-[![ReviewButton](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE.svg)](https://example.com/)
-
-[`<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />`](https://example.com/)
 
 ## Adding basic html using Steps
 
@@ -154,7 +128,7 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
 
 `<button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">`Click Me `</button>`
 
-<!-- when i used this tag, the button is displayed in the Vscode .md file but it is not displayed in the github.md file. However, the button with proper link is displayed in the jekyll site. So why we need this additional css/scss? If this renders in Kekyll site, will it render in hugo site too? refer Read me for more info>
+when I used this tag, the button is displayed in the Vscode .md file but it is not displayed in the github.md file. However, the button with proper link is displayed in the jekyll site. So why we need this additional css/scss? If this renders in jekyll site, will it render in hugo site too? refer Read me for more info
 <!-- Use the above or below code.-->
 
 <a href="https://communityinviter.com/apps/cloud-native/cncf" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px;">Join CNCF Slack</a>
@@ -324,18 +298,9 @@ Step 1 using Inline HTML for buttons in .md. This did not display here in the .m
 
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-## youtube
-
-![You Tube](https://www.youtube.com/watch?v=GrQyUPeCljo?list=PLVYDBkQ1TdyxKgdGE4ThYLkNRCuLLYy9x&t=1)
-
 `<br>`
 
 ## adding image and you tube link
-
-[[!Alt text for the video](img.youtube.com)](link)
-`<br>`
-
-[![Alt text](image_path)](URL_to_link)
 
 [![OTel in Practice](https://i.ytimg.com/vi/GrQyUPeCljo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALVGO8UgEFphlmpsOftOfqTifwlA)](https://www.youtube.com/playlist?list=PLVYDBkQ1TdyxKgdGE4ThYLkNRCuLLYy9x)
 
