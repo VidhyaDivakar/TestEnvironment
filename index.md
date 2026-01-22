@@ -35,6 +35,22 @@ Review Projects
   </button>
 </a>
 
+## Basic HTML Button with Styles 1
+
+<a href="https://github.com/orgs/open-telemetry/projects" target="_blank" rel="noopener noreferrer">
+  <button style="
+    background-color:#2f6feb;
+    color:#ffffff;
+    border:none;
+    padding:6px 14px;
+    border-radius:6px;
+    font-weight:600;
+    cursor:pointer;
+  ">
+    OpenTelemetry Projects
+  </button>
+</a>
+
 ## Review Projects using Blue button
 
 ![Static Badge](https://img.shields.io/badge/Review%20Issues%20-32c9f7 "Review Issues")
